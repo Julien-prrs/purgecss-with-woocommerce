@@ -4,7 +4,7 @@
 
 Install `purgecss-with-woocommerce`:
 ```sh
-yarn add purgecss-with-woocommerce -dev
+yarn add purgecss-with-woocommerce --dev
 ```
 
 ## Usage
