@@ -1,0 +1,30 @@
+{
+    "name": "purgecss-with-woocommerce",
+    "version": "1.0.0",
+    "description": "Purgecss with Wordpress & Woocommerce",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Julien-prrs/purgecss-with-woocommerce.git"
+    },
+    "keywords": [
+        "purgecss",
+        "wordpress",
+        "woocommerce",
+        "remove",
+        "delete",
+        "useless",
+        "unused",
+        "css",
+        "style"
+    ],
+    "author": "Julien-prrs",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Julien-prrs/purgecss-with-woocommerce/issues"
+    },
+    "homepage": "https://github.com/Julien-prrs/purgecss-with-woocommerce"
+}
